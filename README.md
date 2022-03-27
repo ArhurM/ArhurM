@@ -3,7 +3,7 @@
 
 - 📚 **Atualmente estou aprendendo:** C# - Python & JavaScript
 - 🖥️ **Estudando:** Programação Back-end em [Senai CETIQT](https://senaicetiqt.com/);
-- 🎒 **Ferramentas** Principais: Visual Studio Code PyCharm and GitHub 
+- 🎒 **Ferramentas Principais:** Visual Studio Code PyCharm and GitHub 
 - ⭐ **Favoritos:** Animes, Filmes, Series e Jogos;
 <!--
 **ArhurM/ArhurM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
