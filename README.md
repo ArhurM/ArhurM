@@ -1,10 +1,10 @@
 ### Olá, mundo! Eu sou Arthur Mauro 👩‍💻 
 
 
-- 📚 **Atualmente estou aprendendo:** HTML5 CSS & JavaScript
-- 🖥️ **Estudando:**  Programa Oracle One [Alura](https://www.alura.com.br/oracle-next-education) - <Tech/Academy> [StartSe](https://www.startse.com/);
-- ✔️ **Concluido:** Programação Back-end em [Senai CETIQT](https://senaicetiqt.com/) 
-- 🎒 **Ferramentas Principais:** Visual Studio Code PyCharm and GitHub 
+- 📚 **Atualmente estou aprendendo:** HTML5 CSS & JavaScript;
+- 🖥️ **Estudando:**  Programa Oracle One [Alura](https://www.alura.com.br/oracle-next-education) -- <Tech/Academy> [StartSe](https://www.startse.com/);
+- ✔️ **Concluido:** Programação Back-end em [Senai CETIQT](https://senaicetiqt.com/);
+- 🎒 **Ferramentas Principais:** Visual Studio Code PyCharm and GitHub;
 - ⭐ **Favoritos:** Animes, Filmes, Series e Jogos;
 <!--
 **ArhurM/ArhurM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
