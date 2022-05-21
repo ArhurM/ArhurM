@@ -1,8 +1,8 @@
 ### Olá, mundo! Eu sou Arthur Mauro 👩‍💻 
 
 
-- 📚 **Atualmente estou aprendendo:** HTML5 CSS & JavaScript;
-- 🖥️ **Estudando:**  Programa Oracle One [Alura](https://www.alura.com.br/oracle-next-education) -- <Tech/Academy> [StartSe](https://www.startse.com/);
+- 📚 **Atualmente estou aprendendo:** Front End - HTML5 CSS & JavaScript | Back End - Java;
+- 🖥️ **Estudando:**  Programa Oracle One [Alura](https://www.alura.com.br/oracle-next-education) | <Tech/Academy> [StartSe](https://www.startse.com/);
 - ✔️ **Concluido:** Programação Back-end em [Senai CETIQT](https://senaicetiqt.com/);
 - 🎒 **Ferramentas Principais:** Visual Studio Code PyCharm and GitHub;
 - ⭐ **Favoritos:** Animes, Filmes, Series e Jogos;
@@ -30,11 +30,12 @@ Here are some ideas to get you started:
    
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
  
  <!-- Para colocar gif -->
